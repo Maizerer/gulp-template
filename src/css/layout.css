@@ -1,0 +1,10 @@
+.container-outher{
+    display: flex;
+    justify-content: center;
+}
+.container{
+    margin: 0 130px;
+    padding: 0 10px;
+    width: 100%;
+    max-width: 2500px;
+}
