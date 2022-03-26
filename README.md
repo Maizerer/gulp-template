@@ -3,20 +3,15 @@
 ## Quickstart
 
 ### 1. Install
-Клонируем репозиторий
-```shell
-git clone git@github.com:Maizerer/gulp-template.git
-```
-```shell
-cd gulp-template
-```
-Устанавливаем gulp глобально
-```shell
-npm install gulp -g
-```
-Устанавливаем зависимости
+This is a template project, click on the green button "Use this template" at the top of this page and get started with GitHub ✨
+
+One you cloned your repository, install the dependencies with:
 ```shell
 npm install
+```
+Install gulp globally:
+```shell
+npm install gulp -g
 ```
 ### 2. Start server
 
